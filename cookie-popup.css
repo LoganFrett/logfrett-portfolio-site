@@ -28,8 +28,8 @@
 
 #accept-cookies {
   font-family: "Source Code Pro", monospace;
-  background-color: black;
-  color: black;
+  background-color: #fff;
+  color: #333 !important;
   border: none;
   padding: 5px 10px;
   font-size: 1.25rem;
