@@ -18,7 +18,7 @@
 }
 
 #cookie-popup a {
-  color: #000000;
+  color: #ffffff;
 }
 
 #cookie-popup a:hover {
@@ -29,7 +29,7 @@
 #accept-cookies {
   font-family: "Source Code Pro", monospace;
   background-color: #fff;
-  color: #333;
+  color: black;
   border: none;
   padding: 5px 10px;
   font-size: 1.25rem;
@@ -38,5 +38,6 @@
 
 #accept-cookies:hover {
   background-color: yellow;
+  color: black;
   transition: 0.4s;
 }
