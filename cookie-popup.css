@@ -22,7 +22,7 @@
 }
 
 #cookie-popup a:hover {
-  color: rgb(255, 242, 0);
+  color: yellow;
   text-decoration: underline;
 }
 
@@ -37,6 +37,6 @@
 }
 
 #accept-cookies:hover {
-  background-color: lightpink;
+  background-color: yellow;
   transition: 0.4s;
 }
